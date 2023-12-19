@@ -142,6 +142,15 @@ p {
 h5 {
   font-size: 1.4rem;
 }
+._main_q6xo5_1 img {
+  display: block;
+  margin: 0 auto;
+}
+@media (min-width: 786px) {
+  ._main_q6xo5_1 img {
+    width: 70% !important;
+  }
+}
 nav {
   display: flex;
   padding: 1em;
